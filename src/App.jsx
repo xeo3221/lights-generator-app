@@ -31,9 +31,9 @@ function App() {
   const lights = Array.from({ length: totalLights });
 
   return (
-    <div>
-      <nav className="nav">
-        <Text className="counter">{totalLights} bulbs</Text>
+    <div className="p-8">
+      <nav className="flex mb-[50px] space-x-10">
+        <Text>{totalLights} bulbs</Text>
         <Counter
           text={"rows"}
           count={rows}
