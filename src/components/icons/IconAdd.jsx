@@ -2,6 +2,7 @@ export const IconAdd = (props) => {
   return (
     <div>
       <svg
+        className="mr-1.5"
         onClick={props.onClick}
         xmlns="http://www.w3.org/2000/svg"
         width="24"
