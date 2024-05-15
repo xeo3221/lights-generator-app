@@ -1,7 +1,7 @@
 # Lights Generator App
 This is a simple lights generator application built using React and Tailwind CSS. The app allows users to create grids of lights with customizable rows and columns. Users can interact with each light bulb by toggling its state, turning it on or off, simply by clicking on it. It provides an engaging and interactive way to explore light configurations and experiment with different patterns.
 
-Webiste hosted here -> https://xeo3221.github.io/lights-generator-app/
+Website hosted here -> https://xeo3221.github.io/lights-generator-app/
 
 ## Technologies
 - React
