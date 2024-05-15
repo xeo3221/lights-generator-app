@@ -7,5 +7,5 @@ Webiste hosted here -> https://xeo3221.github.io/lights-generator-app/
 - React
 - TailwindCSS
 
-## Desing
+## Design
 ![Screenshot 2024-05-15 at 15 56 17](https://github.com/xeo3221/lights-generator-app/assets/95309495/a78a366e-b96d-4380-9685-9f00623d1a0b)
